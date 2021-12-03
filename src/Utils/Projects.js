@@ -22,7 +22,7 @@ export const projects = [
 		title: 'RedBus Clone',
 		des: 'RedBus is India’s largest online bus ticketing platform that has transformed bus travel in the country by bringing ease and convenience to millions of Indians who travel using buses.It has features for login/logout . Users can search vehicles according to their needs.Users also book Outstation Vehicle . Users get ticket after successful booking.',
 		demo: '',
-		live: 'https://front-end-15ofn5qe4-ranuranjan.vercel.app',
+		live: 'https://front-end-mansur3.vercel.app/',
 		gitHub: 'https://github.com/RanuRanjan/Redbus_clone/tree/master',
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'JavaScript','MongoDB'],
 	},
