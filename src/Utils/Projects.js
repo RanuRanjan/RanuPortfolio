@@ -23,7 +23,7 @@ export const projects = [
 		des: 'RedBus is India’s largest online bus ticketing platform that has transformed bus travel in the country by bringing ease and convenience to millions of Indians who travel using buses.It has features for login/logout . Users can search vehicles according to their needs.Users also book Outstation Vehicle . Users get ticket after successful booking.',
 		demo: '',
 		live: 'https://front-end-mansur3.vercel.app/',
-		gitHub: 'https://github.com/RanuRanjan/Redbus_clone/tree/master',
+		gitHub: 'https://github.com/RaniKamna/Redbus_clone',
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'JavaScript','MongoDB'],
 	},
 	// {
