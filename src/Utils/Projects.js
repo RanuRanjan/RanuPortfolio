@@ -26,15 +26,15 @@ export const projects = [
 		gitHub: 'https://github.com/RaniKamna/Redbus_clone',
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'JavaScript','MongoDB'],
 	},
-	// {
-	// 	img: 'https://user-images.githubusercontent.com/73213873/107113597-f547e200-6885-11eb-8abd-72106074907a.png',
-	// 	title: 'Clone of Medium',
-	// 	des: 'Clone of a blogging web application, Medium where a user can read the blogs written by others and show their response also, one can share their thoughts by posting a blog.',
-	// 	demo: '',
-	// 	live: 'https://medium-web.netlify.app/',
-	// 	gitHub: 'https://github.com/himrd95/Medium-Clone.git',
-	// 	technologies: ['React', 'HTML', 'CSS', 'javaScript'],
-	// },
+	{
+		img: '../assets/Screenshot_11.jpg',
+		title: 'Weather App',
+		des: 'Weather App Using React. Users can search their city temp,wind,humidity ',
+		demo: '',
+		live: 'weather-app-zeta-fawn.vercel.app',
+		gitHub: 'https://github.com/RanuRanjan/WeatherApp',
+		technologies: ['React', 'HTML', 'CSS', 'javaScript'],
+	}
 	// {
 	// 	img: 'https://camo.githubusercontent.com/b7f4aa8c34ddf776dd19b78dc3488456470a73e5026f48784e9e753601468802/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c62507030307771454537386c6f68584d372f67697068792e676966',
 	// 	title: 'Clone of Fitness Blender',
