@@ -27,7 +27,7 @@ export const projects = [
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'JavaScript','MongoDB'],
 	},
 	{
-		img: '../assets/Screenshot_11.jpg',
+		img: 'https://user-images.githubusercontent.com/53153822/150516434-844b901d-7175-4f51-bd24-359ca1ccf3c8.jpg',
 		title: 'Weather App',
 		des: 'Weather App Using React. Users can search their city temp,wind,humidity ',
 		demo: '',
