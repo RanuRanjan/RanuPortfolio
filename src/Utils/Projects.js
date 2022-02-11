@@ -43,14 +43,14 @@ export const projects = [
 		live: 'https://ranuranjan.github.io/Calculator/',
 		gitHub: 'https://github.com/RanuRanjan/Calculator',
 		technologies: ['HTML', 'CSS', 'javaScript'],
-	}
-	// {
-	// 	img: 'https://github.com/mandarsatam/Mailchimp-Clone/blob/master/Snips/Screenshot%20(79).png?raw=true',
-	// 	title: 'Mailchimp Clone',
-	// 	des: 'This is a static clone of a website called Mailchimp. This clone includes landing, pricing, our story, and the resources page.',
-	// 	demo: '',
-	// 	live: 'https://mandarsatam.github.io/Mailchimp-Clone/',
-	// 	gitHub: 'https://github.com/mandarsatam/Mailchimp-Clone',
-	// 	technologies: ['HTML', 'CSS', 'javaScript'],
-	// },
+	},
+	{
+		img: 'https://user-images.githubusercontent.com/53153822/153556628-08dd58da-3360-4c81-a7bf-96877e860856.jpg',
+		title: 'Todo',
+		des: 'Simple Todo App. Users can add What they want do ,Users can mark task if done and also users can delete task',
+		demo: '',
+		live: 'https://ranuranjan.github.io/Todo/',
+		gitHub: 'https://github.com/RanuRanjan/Todo',
+		technologies: ['HTML', 'CSS', 'javaScript'],
+	},
 ];
