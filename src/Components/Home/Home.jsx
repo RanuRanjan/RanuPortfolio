@@ -78,13 +78,12 @@ const Home = ({ scrollRef }) => {
 							Ranu Ranjan.
 						</div>
 					</h1>
-					<h1>
-					I'm an Aspiring full-stack developer with a specialization in MERN stack 
-					with a passion for learning with an endless supply of optimism and curiosity.
-					</h1>
+					<h2>
+					I have 3 years of experience as a Front-End Developer and am now an aspiring Full-Stack Developer specializing in the MERN stack. I have a strong passion for learning, with an endless supply of optimism and curiosity that drives me to continuously improve my skills and stay up to date with the latest trends in web development.
+					</h2>
 					<div className={styles.btn}>
 						<a
-							href='https://drive.google.com/file/d/1-BdmTqY-aWEIvQxX4EMtIRKKdxH05hOZ/view' download={"https://drive.google.com/file/d/1-BdmTqY-aWEIvQxX4EMtIRKKdxH05hOZ/view"} // Resume
+							href='https://drive.google.com/file/d/1vNGlYn6H2ie3LFT1-mA-3sBp2zu7cawS/view?usp=drive_link' // Resume
 							target='blank'
 						>
 							<Button
@@ -130,7 +129,7 @@ const Home = ({ scrollRef }) => {
 				<TechStacks />
 			</div>
 
-			{/* <div
+			<div
 				id='experience'
 				className={styles.experience}
 				style={{
@@ -144,9 +143,9 @@ const Home = ({ scrollRef }) => {
 					data-aos-duration='700'
 					style={{ color: `${newTheme.para}` }}
 				>
-					<Experiences />
+					{/* <Experiences / */}
 				</div>
-			</div> */}
+			</div>
 
 			{/* project section from here => */}
 			<div id='projects' className={styles.projects}>
