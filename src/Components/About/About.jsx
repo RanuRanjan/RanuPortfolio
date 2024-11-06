@@ -30,7 +30,7 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hello! My name is Ranu Ranjan and I am a web developer with over 3years of experience, specializing in micro-frontend applications using React JS. I am skilled in HTML, CSS, JavaScript, Node.js, and Express.js, which helps me build scalable and efficient web solutions. Currently, I work as an Associate Consultant at Capgemini Services India Pvt. Ltd, where I turn static designs into dynamic, data-driven websites.I also work with micro-frontend and microservices architectures to improve performance and make websites easier to maintain.
+					Hello! My name is Ranu Ranjan and I am a web developer with over 3years of experience, specializing in micro-frontend applications using React JS. I am skilled in HTML, CSS, JavaScript, Node.js, and Express.js, which helps me build scalable and efficient web solutions. Currently, I work as an Associate Consultant at Capgemini Services India Pvt. Ltd, where I turn static designs into dynamic,data-driven websites.I also work with micro-frontend and microservices architectures to improve performance and make websites easier to maintain.
 					<span style={{ color: `#00a0a0` }}>
 					
 					</span>
